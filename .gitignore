@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# This project
+bin/
+etc/
+include/
+share/
+src/syllabifier/
+pyvenv.cfg
