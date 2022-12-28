@@ -2,7 +2,7 @@ Rewritings in "modern English" of Shakespeare's Sonnets. They
 actually call them "translations" in the website... Source: 
 https://www.litcharts.com/shakescleare/shakespeare-translations/sonnets 
 
-
+#BEGIN#
 We want #REPLACEbeautiful #REPLACEpeople to reproduce and 
 grow in #REPLACEnumber, So that the examples of 
 #REPLACEbeauty might never die. Even though someone who 
@@ -20,8 +20,8 @@ girly #REPLACEmiser, wasting your #REPLACEbeauty by being so
 #REPLACEstingy. Show some #REPLACEpity on the world, or else 
 become a #REPLACEglutton, By letting what the world deserves be 
 #REPLACEconsumed by the grave and #REPLACEyou.
-
-
+#END#
+#BEGIN#
 When forty #REPLACEwinters will #REPLACEoccupy your 
 forehead, And dig deep trenches the #REPLACEfield that 
 #REPLACEbeauty now occupies, The proud #REPLACEclothing of 
@@ -40,8 +40,8 @@ you could #REPLACEanswer:  "This #REPLACEbeautiful
 because he is your #REPLACEson. This #REPLACEchild would be 
 #REPLACEyouthful when you are #REPLACEold, You would see 
 your #REPLACEblood warm when you feel it growing cold.
-
-
+#END#
+#BEGIN#
 Look in the #REPLACEmirror and tell the #REPLACEface that you see 
 in it, That now is the time that your #REPLACEface show make 
 another, If you do not renew your #REPLACEbeauty by passing it 
@@ -57,8 +57,8 @@ eyes, Despite your old #REPLACEage, this golden #REPLACEtime of
 your youth. But if you #REPLACElive as if you don't want to 
 be remembered, You #REPLACEdie #REPLACEsingle and your 
 #REPLACEimage will die with you.
-
-
+#END#
+#BEGIN#
 Wasteful #REPLACEbeauty, why do you 
 spendThe #REPLACEinheritance of your #REPLACEbeauty upon 
 yourself?Nature's #REPLACEgift is nothing in itself, it is 
@@ -74,8 +74,8 @@ about your self. So when #REPLACEnature calls you to be
 can you leave behind?Your unused #REPLACEbeauty will go to the 
 #REPLACEtomb with you, Which when #REPLACEused, lives to be 
 your #REPLACEexecutor.
-
-
+#END#
+#BEGIN#
 #REPLACETime, which with gentle work #REPLACEpaintedThe 
 #REPLACElovely #REPLACEsight that everyone admires, Will turn 
 #REPLACEcruel to the very same #REPLACEsightAnd unfairly 
@@ -93,8 +93,8 @@ of what it was. But distilled #REPLACEflowers, although they do
 #REPLACEsurvive into #REPLACEwinter, Lose only 
 their #REPLACEappearance; their #REPLACEessence still 
 #REPLACEsweetly lives.
-
-
+#END#
+#BEGIN#
 Then do not let #REPLACEWinter's rough #REPLACEhands 
 defaceThe #REPLACEsummer in you, before you are 
 #REPLACEdistilled. Fill glass #REPLACEvials with 
@@ -112,8 +112,8 @@ should #REPLACEdie, Leaving #REPLACEyourself living after your
 #REPLACEdeath?Do not be so selfish, you are too 
 #REPLACEbeautifulTo be consumed by #REPLACEdeath and make 
 worms your only #REPLACEheir.
-
-
+#END#
+#BEGIN#
 Look, in the #REPLACEEast when the great #REPLACElightLifts up 
 his #REPLACEburning head, each #REPLACEeye underneathPays 
 homage to this new-appearing #REPLACEsight, Serving this 
@@ -130,8 +130,8 @@ now turned awayFrom his #REPLACEdownfall and look another
 way. So you, reaching your own #REPLACEdownfall in your 
 #REPLACEnoon, Will soon be left alone unless you 
 a #REPLACEson.
-
-
+#END#
+#BEGIN#
 When there is #REPLACEmusic, why do you listen to it 
 #REPLACEsadly?#REPLACESweetness belongs with 
 #REPLACEsweetness, and #REPLACEjoy delights 
@@ -149,8 +149,8 @@ pairs, Resembling #REPLACEfather and #REPLACEchild and
 #REPLACEsing in one pleasing #REPLACEnote;This wordless 
 #REPLACEsong, gathering many parts into one whole, Sings this to 
 you: "#REPLACEUnmarried, you will achieve #REPLACEnothing."
-
-
+#END#
+#BEGIN#
 Is it because you don't want to make your widow #REPLACEcryThat 
 you #REPLACEwaste yourself away in your #REPLACEsingle 
 #REPLACElife?Ah, if you happen to #REPLACEdie 
@@ -167,8 +167,8 @@ world, By the #REPLACEbeautiful man who keeps his
 #REPLACEseed unused. There is no #REPLACElove for others in 
 this manWho commits such #REPLACEshameful #REPLACEmurder 
 on himself.
-
-
+#END#
+#BEGIN#
 In shame you #REPLACEdeny that you #REPLACElove anyone 
 else, Since you are so careless in #REPLACEloving 
 yourself. Accept, if you can, that you are #REPLACEloved by 
@@ -186,8 +186,8 @@ like your own #REPLACEpresence, which is #REPLACEgracious and
 yourself. Make yourself another self, out of #REPLACElove for 
 #REPLACEme, So that #REPLACEbeauty can still live in you or your 
 #REPLACEchildren.
- 
- 
+#END#
+#BEGIN#
 As much as you #REPLACEdiminish, you will #REPLACEgrowIn a 
 #REPLACEchild of yours, from the #REPLACElife you are 
 leaving;And that fresh #REPLACEblood which you 
@@ -205,8 +205,8 @@ gave the best #REPLACEqualities, A #REPLACEgift full of
 generously. #REPLACEBeauty molded you as her #REPLACEstamp, 
 and intended in doing soThat you should #REPLACEprint more, not 
 let the copy of #REPLACEher #REPLACEdie.
-
-
+#END#
+#BEGIN#
 When I count the #REPLACEchimes of the clock that #REPLACEtells 
 the time, And see the #REPLACEbeautiful #REPLACEday sunk into 
 #REPLACEhideous #REPLACEnight;When I see the violet 
@@ -224,8 +224,8 @@ things ruined by #REPLACEtime, Since #REPLACEsweet and
 #REPLACEgrow, And nothing can defend itself against Time's 
 #REPLACEharvestExcept by his #REPLACEchild, with which he 
 can #REPLACEdefy Time.
- 
- 
+#END#
+#BEGIN#
 Oh, only if you were your #REPLACEtrue self! 
 But, #REPLACElove, youDo not belong to #REPLACEyourself 
 longer than you live in this #REPLACEworld. You should make 
@@ -244,8 +244,8 @@ eternal #REPLACEcold?Oh, only #REPLACEspendthrifts let such
 #REPLACEdecay happen. My #REPLACEdear 
 #REPLACElove, You had a #REPLACEfather; have a 
 #REPLACEchild, so that he can #REPLACEsay so too.
-
-
+#END#
+#BEGIN#
 I don't make my #REPLACEdecisions based on the 
 #REPLACEstars, But I am influenced by #REPLACEastrology, Not 
 to tell me about good or bad #REPLACEluck, About plagues, of 
@@ -261,8 +261,8 @@ together, If you turn away from #REPLACEyourself to
 #REPLACEbreeding;If not, I prophesy this about you:Your 
 #REPLACEdeath is the doom and #REPLACEdeath-day of 
 #REPLACEtruth and #REPLACEbeauty.
-
-
+#END#
+#BEGIN#
 When I consider that everything that #REPLACEgrowsRemains 
 #REPLACEperfect for only a little #REPLACEmoment;That the 
 #REPLACEhuge #REPLACEstage of the world has on it nothing 
@@ -280,8 +280,8 @@ debates with #REPLACEdecay, About how to corrupt your
 #REPLACEnight;I am fighting against #REPLACEtime out of 
 #REPLACElove for #REPLACEyou, As time takes from 
 #REPLACEyou, I #REPLACEengraft #REPLACEyou again.
-
-
+#END#
+#BEGIN#
 But why don't you, in a #REPLACEstronger way, Fight against 
 #REPLACEtime, this bloody tyrant, And defend yourself against 
 #REPLACEdecayIn a more #REPLACEblessed way than 
@@ -298,8 +298,8 @@ any #REPLACEpainted #REPLACEportrait. So should
 #REPLACEmen. To give yourself away in #REPLACEmarriage 
 would #REPLACEpreserve you, And you must #REPLACElive, 
 drawn by your own #REPLACEsweet #REPLACEskill.
-
-
+#END#
+#BEGIN#
 Who will #REPLACEbelieve my #REPLACEpoetry in the future, If it 
 were filled with the #REPLACEhighest #REPLACEpraise that you 
 #REPLACEdeserve?Although #REPLACEheaven knows my poetry 
@@ -319,8 +319,8 @@ poet's excessive #REPLACEenthusiasmAnd the over-stretched
 #REPLACEmeter of an old song;But if a #REPLACEchild of yours 
 were #REPLACEalive at that time, You would be #REPLACEliving 
 twice: in it and in my rhyme.
-
-
+#END#
+#BEGIN#
 Should I #REPLACEcompare you to a summer's 
 #REPLACEday?You are #REPLACElovelier and 
 more #REPLACEmild. Even in May rough #REPLACEwinds shake 
@@ -338,8 +338,8 @@ lose possession of the #REPLACEbeauty you own, Nor will
 apart from #REPLACEtime. As long as #REPLACEmen breathe or 
 have #REPLACEeyes to #REPLACEsee, As long as this sonnet 
 #REPLACElives, it will give #REPLACElife to #REPLACEyou.
-
-
+#END#
+#BEGIN#
 Devouring #REPLACEtime, soften the lion's #REPLACEclaws, And 
 make the #REPLACEearth eat up her own sweet 
 #REPLACEchildren;Pull out the #REPLACEsharp #REPLACEteeth 
@@ -356,8 +356,8 @@ carve #REPLACEwrinkles into my #REPLACElove's
 #REPLACEbeauty to all future #REPLACEmen. But do your worst, 
 old #REPLACEtime; despite your #REPLACEcrime, My 
 #REPLACElover will live on in my verse forever #REPLACEyoung.
-
-
+#END#
+#BEGIN#
 A woman's #REPLACEface, painted by nature's own 
 #REPLACEhand, Is what you #REPLACEhave, master-mistress of 
 my #REPLACEfeelings. You have a woman's #REPLACEgentle 
@@ -376,3 +376,4 @@ defeated my purpose for #REPLACEyouBy adding one thing that is
 useless to me. But since nature selected you for #REPLACEwomen's 
 #REPLACEpleasure, I will have your #REPLACElove, but the use of 
 it will be their #REPLACEtreasure.
+#END#
