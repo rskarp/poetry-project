@@ -1,7 +1,7 @@
 Gertrud Stein, Tender Buttons. Source: https://www.bartleby.com/140/2.html
 
-#BEGIN#
-A #REPLACECARAFE, THAT IS A BLIND #REPLACEGLASS.
+#BEGIN
+A #REPLACECARAFE, THAT IS A BLIND #REPLACEglass.
 
 A #REPLACEkind in #REPLACEglass and a #REPLACEcousin, a #REPLACEspectacle and nothing #REPLACEstrange a single hurt #REPLACEcolor and an #REPLACEarrangement in a system to #REPLACEpointing. All this and not #REPLACEordinary, not #REPLACEunordered in not #REPLACEresembling. The difference is spreading.
 
@@ -9,7 +9,7 @@ GLAZED #REPLACEGLITTER.
 
 #REPLACENickel, what is #REPLACEnickel, it is originally rid of a #REPLACEcover.
 
-The #REPLACEchange in that is that #REPLACEred weakens an #REPLACEhour. The #REPLACEchange has come. There is no #REPLACEsearch. But there is, there is that #REPLACEhope and that #REPLACEinterpretation and sometime, surely any is #REPLACEunwelcome, sometime there is #REPLACEbreath and there will be a #REPLACEsinecure and #REPLACEcharming very #REPLACEcharming is that #REPLACEclean and v#REPLACE cleansing. Certainly #REPLACE glittering is handsome and #REPLACEconvincing.There is no #REPLACEgratitude in #REPLACEmercy and in #REPLACEmedicine. There can be #REPLACEbreakages in #REPLACEJapanese. That is no #REPLACEprogram. That is no #REPLACEcolor chosen. It was chosen yesterday, that showed #REPLACE spitting and perhaps #REPLACEwashing and #REPLACEpolishing. It certainly showed no #REPLACEobligation and perhaps if #REPLACEborrowing is not #REPLACEnatural there is some use in #REPLACEgiving.
+The #REPLACEchange in that is that #REPLACEred weakens an #REPLACEhour. The #REPLACEchange has come. There is no #REPLACEsearch. But there is, there is that #REPLACEhope and that #REPLACEinterpretation and sometime, surely any is #REPLACEunwelcome, sometime there is #REPLACEbreath and there will be a #REPLACEsinecure and #REPLACEcharming very #REPLACEcharming is that #REPLACEclean and v#REPLACE cleansing. Certainly #REPLACE glittering is handsome and #REPLACEconvincing.There is no #REPLACEgratitude in #REPLACEmercy and in #REPLACEmedicine. There can be #REPLACEbreakages in #REPLACEJapanese. That is no #REPLACEprogram. That is no #REPLACEcolor chosen. It was chosen yesterday, that showed #REPLACEspitting and perhaps #REPLACEwashing and #REPLACEpolishing. It certainly showed no #REPLACEobligation and perhaps if #REPLACEborrowing is not #REPLACEnatural there is some use in #REPLACEgiving.
 
 A #REPLACEBOX.
 
@@ -62,4 +62,4 @@ A #REPLACEpiece of separate outstanding #REPLACErushing is so blind with open #R
 A #REPLACEcanoe is orderly. A #REPLACEperiod is solemn. A #REPLACEcow is accepted.
 
 A nice old #REPLACEchain is widening, it is absent, it is laid by.
-#END#
+#END
