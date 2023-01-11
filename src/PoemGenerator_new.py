@@ -136,9 +136,13 @@ def run_experiments():
     # replace_marked_words('stein-tender-buttons.txt')
     # replace_marked_words('shakespeare-translations.txt')
 
-    filename = 'olson.txt'
+    filename = 'modernist-poems.txt'
     percent_options = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
     replacement_options = [['ml'], ['sp'], ['rel_trg'], ['rel_cns'], ['rel_hom'], ['ml','sp'], ['ana'], ['ml','ana']]
+    
+    percent_options = [100]
+    replacement_options = [['ml'],['rel_trg']]
+    
     args = [(filename, percent, repl) for percent in percent_options for repl in replacement_options]
 
     # Run all percent and replacement type experiments in parallel
