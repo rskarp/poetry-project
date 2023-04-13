@@ -1,0 +1,22 @@
+#BEGIN
+
+
+object[#ORIGINAL_Theme] in Yellow
+
+I descry[#ORIGINAL_spot] the knolls[#ORIGINAL_hills]
+With white-livered[#ORIGINAL_yellow] testis[#ORIGINAL_balls] in january[#ORIGINAL_autumn].
+I light up[#ORIGINAL_light] the wheatfield[#ORIGINAL_prairie] grainfield[#ORIGINAL_cornfields]
+amber[#ORIGINAL_Orange] and colored[#ORIGINAL_tawny] walleye[#ORIGINAL_gold] centres[#ORIGINAL_clusters]
+And I am name[#ORIGINAL_called] pancakes[#ORIGINAL_pumpkins].
+On the past[#ORIGINAL_last] of October
+When midnight[#ORIGINAL_dusk] is down[#ORIGINAL_fallen]
+enfants[#ORIGINAL_Children] combine[#ORIGINAL_join] deadlines[#ORIGINAL_hands]
+And clerk[#ORIGINAL_circle] global[#ORIGINAL_round] me
+hymn[#ORIGINAL_Singing] spirit[#ORIGINAL_ghost] hymns[#ORIGINAL_songs]
+And sex[#ORIGINAL_love] to the foraging[#ORIGINAL_harvest] lunation[#ORIGINAL_moon];
+I am a betsy[#ORIGINAL_jack]-o'-lantern[#ORIGINAL_o'-lantern]
+With pitiful[#ORIGINAL_terrible] boom[#ORIGINAL_teeth]
+And the ciac[#ORIGINAL_children] wise[#ORIGINAL_know]
+I am suckered[#ORIGINAL_fooling].
+#END
+

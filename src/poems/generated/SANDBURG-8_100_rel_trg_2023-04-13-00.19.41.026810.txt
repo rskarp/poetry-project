@@ -1,0 +1,12 @@
+#BEGIN
+
+Fog
+The inland[#ORIGINAL_fog] rescue[#ORIGINAL_comes]
+on bit[#ORIGINAL_little] ears[#ORIGINAL_cat] width[#ORIGINAL_feet].
+
+It sits[#ORIGINAL_sits] mirror[#ORIGINAL_looking]
+over mare[#ORIGINAL_harbor] and county[#ORIGINAL_city]
+on hardy[#ORIGINAL_silent] move[#ORIGINAL_haunches]
+and then[#ORIGINAL_then] forward[#ORIGINAL_moves] on.
+#END
+

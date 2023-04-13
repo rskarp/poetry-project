@@ -1,0 +1,19 @@
+#BEGIN
+
+This Is outside[#ORIGINAL_Just] To you[#ORIGINAL_Say]
+I have stew[#ORIGINAL_eaten]
+the plums[#ORIGINAL_plums]
+that were in
+the warhol[#ORIGINAL_icebox]
+
+and which
+you were certainly[#ORIGINAL_probably]
+daylight[#ORIGINAL_saving]
+for bread[#ORIGINAL_breakfast]
+
+marry[#ORIGINAL_Forgive] me
+they were cooking[#ORIGINAL_delicious]
+so[#ORIGINAL_so] cream[#ORIGINAL_sweet]
+and so[#ORIGINAL_so] hot[#ORIGINAL_cold]
+#END
+

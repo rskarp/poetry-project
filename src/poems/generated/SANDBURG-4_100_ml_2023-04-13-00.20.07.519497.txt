@@ -1,0 +1,13 @@
+#BEGIN
+
+
+Buffalo Dusk
+
+The bulls[#ORIGINAL_buffaloes] are done[#ORIGINAL_gone].
+And those who spoke[#ORIGINAL_saw] the ruminants[#ORIGINAL_buffaloes] are destroyed[#ORIGINAL_gone].
+Those who felt[#ORIGINAL_saw] the bison bison[#ORIGINAL_buffaloes] by multitudes[#ORIGINAL_thousands] and how they drooled[#ORIGINAL_pawed] the shortgrass[#ORIGINAL_prairie] pitch[#ORIGINAL_sod] into dot[#ORIGINAL_dust] with their farrier[#ORIGINAL_hoofs], their distinguished[#ORIGINAL_great] drumhead[#ORIGINAL_heads] down whimpering[#ORIGINAL_pawing] on in a dandy[#ORIGINAL_great] festivities[#ORIGINAL_pageant] of crepuscular[#ORIGINAL_dusk],
+Those who notice[#ORIGINAL_saw] the cheyennes[#ORIGINAL_buffaloes] are leave[#ORIGINAL_gone].
+And the muskox[#ORIGINAL_buffaloes] are away[#ORIGINAL_gone].
+
+#completion[#ORIGINAL_END]
+

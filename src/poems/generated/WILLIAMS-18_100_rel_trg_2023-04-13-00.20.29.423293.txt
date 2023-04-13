@@ -1,0 +1,17 @@
+#BEGIN
+
+The Red Wheelbarrow
+
+so[#ORIGINAL_so] stronger[#ORIGINAL_much] angle[#ORIGINAL_depends]
+upon
+
+a lion[#ORIGINAL_red] spin[#ORIGINAL_wheel]
+hill[#ORIGINAL_barrow]
+
+nose[#ORIGINAL_glazed] with thunder[#ORIGINAL_rain]
+electricity[#ORIGINAL_water]
+
+beside the purple[#ORIGINAL_white]
+sheep[#ORIGINAL_chickens]
+#END
+

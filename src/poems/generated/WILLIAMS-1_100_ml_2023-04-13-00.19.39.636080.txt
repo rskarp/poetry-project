@@ -1,0 +1,20 @@
+#BEGIN
+
+Between Walls
+
+the cover[#ORIGINAL_back] ailes[#ORIGINAL_wings]
+of the
+
+patient[#ORIGINAL_hospital] where
+nothing
+
+will rise[#ORIGINAL_grow] hide[#ORIGINAL_lie]
+soot[#ORIGINAL_cinders]
+
+in which burn[#ORIGINAL_shine]
+the fracture[#ORIGINAL_broken]
+
+chips[#ORIGINAL_pieces] of a light-green[#ORIGINAL_green]
+bottle[#ORIGINAL_bottle]
+#END
+

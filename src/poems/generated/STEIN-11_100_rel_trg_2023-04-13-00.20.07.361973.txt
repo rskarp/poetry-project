@@ -1,0 +1,11 @@
+#BEGIN
+
+from Stanzas in practices[#ORIGINAL_Meditation]: Stanza 13
+
+There may be colour[#ORIGINAL_pink] with pacific[#ORIGINAL_white] or sox[#ORIGINAL_white] with tattoo[#ORIGINAL_rose]
+Or there may be colored[#ORIGINAL_white] with prominence[#ORIGINAL_rose] and blue[#ORIGINAL_pink] with lavender[#ORIGINAL_mauve]
+Or worse[#ORIGINAL_even] there may be sox[#ORIGINAL_white] with colour[#ORIGINAL_yellow] and coloured[#ORIGINAL_yellow] with green[#ORIGINAL_blue]
+Or though[#ORIGINAL_even] if worse[#ORIGINAL_even] it is window[#ORIGINAL_rose] with african[#ORIGINAL_white] and sox[#ORIGINAL_blue]
+And so[#ORIGINAL_so] there is[#ORIGINAL_is] no purple[#ORIGINAL_yellow] there[#ORIGINAL_there] but by nuclear[#ORIGINAL_accident].
+#END
+

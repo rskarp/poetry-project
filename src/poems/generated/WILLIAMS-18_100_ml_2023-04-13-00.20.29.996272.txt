@@ -1,0 +1,17 @@
+#BEGIN
+
+The Red Wheelbarrow
+
+any[#ORIGINAL_so] great[#ORIGINAL_much] varies[#ORIGINAL_depends]
+upon
+
+a colored[#ORIGINAL_red] volante[#ORIGINAL_wheel]
+barrow[#ORIGINAL_barrow]
+
+glossed[#ORIGINAL_glazed] with charm[#ORIGINAL_rain]
+sediment[#ORIGINAL_water]
+
+beside the blanched[#ORIGINAL_white]
+gallus gallus[#ORIGINAL_chickens]
+#END
+
