@@ -1,9 +1,0 @@
-#BEGIN
-
-Choose
-THE promotional[#ORIGINAL_single] striking[#ORIGINAL_clenched] fists[#ORIGINAL_fist] clean[#ORIGINAL_lifted] and fly[#ORIGINAL_ready],
-Or the singles[#ORIGINAL_open] answer[#ORIGINAL_asking] thumb[#ORIGINAL_hand] weekend[#ORIGINAL_held] out and shelter[#ORIGINAL_waiting].
-Choose:
-For we challenges[#ORIGINAL_meet] by one or the other[#ORIGINAL_other].
-#END
-

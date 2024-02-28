@@ -1,7 +1,0 @@
-#BEGIN
-
-A White Hunter
-
-A bright[#ORIGINAL_white] darts[#ORIGINAL_hunter] is basically[#ORIGINAL_nearly] enthusiastic[#ORIGINAL_crazy].
-#END
-
