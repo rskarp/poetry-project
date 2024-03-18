@@ -492,34 +492,7 @@ if __name__ == '__main__':
         As the dead prey upon us,
         they are the dead in ourselves,
         awake, my sleeping ones, I cry out to you,
-        disentangle the nets of being!
-
-        I pushed my car, it had been sitting so long unused.
-        I thought the tires looked as though they only needed air.
-        But suddenly the huge underbody was above me, and the rear tires
-        were masses of rubber and thread variously clinging together
-
-        as were the dead souls in the living room, gathered
-        about my mother, some of them taking care to pass
-        beneath the beam of the movie projector, some record
-        playing on the victrola, and all of them
-        desperate with the tawdriness of their life in hell
-
-        I turned to the young man on my right and asked, How is it,
-        there? And he begged me protestingly dont ask, we are poor
-        poor. And the whole room was suddenly posters and presentations
-        of brake linings and other automotive accessories, cardboard
-        displays, the dead roaming from one to another
-        as bored back in life as they are in hell, poor and doomed
-        to mere equipments
-
-        my mother, as alive as ever she was, asleep
-        when I entered the house as I often found her in a rocker
-        under the lamp, and awaking, as I came up to her, as she ever had
-
-        I found out she returns to the house once a week, and with her
-        the throng of the unknown young who center on her as much in death
-        as other like suited and dressed people did in life'''
+        disentangle the nets of being!'''
 
     p = createPoemVariation(poem)
     print(p)

@@ -1,6 +1,9 @@
 '''
 References:
 - https://docs.labelbox.com/reference/export-text-annotations
+- https://www.linkedin.com/pulse/fine-tuning-open-ai-gpt-3-transformer-model-custom-dataset-hamid/
+- https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset
+- https://platform.openai.com/docs/models/overview
 '''
 import os
 import labelbox as lb

@@ -1,9 +1,3 @@
-'''
-References:
-- https://www.linkedin.com/pulse/fine-tuning-open-ai-gpt-3-transformer-model-custom-dataset-hamid/
-- https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset
-- https://platform.openai.com/docs/models/overview
-'''
 import os
 import spacy
 import labelbox as lb
@@ -13,10 +7,6 @@ import concurrent.futures
 from openai import OpenAI
 from random import sample
 from version1 import generateNVariations, generateNVariations_parallel
-
-import os
-from sendgrid import SendGridAPIClient
-from sendgrid.helpers.mail import Mail
 
 ai = OpenAI(organization=os.getenv("OPENAI_ORGANIZATION"), api_key=os.getenv("OPENAI_API_KEY"))
 
@@ -140,9 +130,7 @@ def generateFineTune2Variation_parallel(poem, nSyn, nRel, nAna, nSp, nCns, nHom)
             newLines[idx] = newLine+'\n'
         elif len(mediocre_labels) > 0:
             newLine = sample(mediocre_labels, 1)[0]['line']
-            newLines[idx] = '[MEDIOCRE] '+newLine+'\n'
-        else:
-            newLines[idx] = '-\n'
+            newLines[idx] = newLine+'\n'
 
     # Generate each output line in parallel
     with concurrent.futures.ThreadPoolExecutor() as executor:
@@ -153,34 +141,12 @@ def generateFineTune2Variation_parallel(poem, nSyn, nRel, nAna, nSp, nCns, nHom)
     end = time.time()
     print(f'Total time: {end-start} seconds ({(end-start)/60} minutes)')
 
-# Test SendGrid email
-def testSendGrid():
-    message = Mail(
-        from_email='fuzzypoetry1@gmail.com',
-        to_emails='fuzzypoetry1@gmail.com',
-        subject='Sending with Twilio SendGrid is Fun',
-        plain_text_content='<strong>and easy to do anywhere, even with Python</strong>')
-        # html_content='<strong>and easy to do anywhere, even with Python</strong>')
-    try:
-        sg = SendGridAPIClient(os.environ.get('SENDGRID_API_KEY'))
-        response = sg.send(message)
-        print(response.status_code)
-        print(response.body)
-        print(response.headers)
-    except Exception as e:
-        print(e)
-
 if __name__ == '__main__':
     poem = '''
-    After the torchlight red on sweaty faces
-    After the frosty silence in the gardens
-    After the agony in stony places
-    The shouting and the crying
-    Prison and palace and reverberation
-    Of thunder of spring over distant mountains
-    He who was living is now dead
-    We who were living are now dying
-    '''
+        As the dead prey upon us,
+        they are the dead in ourselves,
+        awake, my sleeping ones, I cry out to you,
+        disentangle the nets of being!'''
 
     nSyn = 2 # Similar meaning
     nRel = 2 # Related words
