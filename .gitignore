@@ -133,7 +133,7 @@ bin/
 etc/
 include/
 share/
-src/syllabifier/
+src/archive/syllabifier/
 pyvenv.cfg
 .DS_store
 src/poems/*
