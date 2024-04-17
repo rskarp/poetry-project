@@ -112,9 +112,11 @@ def generateFineTune2Variation_parallel(poem, nSyn, nRel, nAna, nSp, nCns, nHom)
 
         # Get the category label (GOOD, MEDIOCRE, BAD) for a given line variation compared to the original
         def _processLineVariation(variationIdx, originalLine, variation):
-            cleanLine = re.sub(r'\[#ORIGINAL_[^\]]+]', '', variation[idx]).replace('"',"'") if idx < len(variation) else originalLine
+            variationLine = variation[idx].replace(
+                '"', "'") if idx < len(variation) else originalLine
+            cleanLine = re.sub(r'\[#ORIGINAL_[^\]]+]', '', variationLine)
             label = getLineCategory(originalLine,cleanLine)
-            labels[variationIdx] = {'line':cleanLine, 'label': label}
+            labels[variationIdx] = {'line':variationLine, 'label': label}
         
         # Get the label for each poem variation ion parallel
         args = [(i, originalLine, variation) for i, variation in enumerate(poemVariations)]
@@ -152,7 +154,12 @@ if __name__ == '__main__':
     nRel = 2 # Related words
     nAna = 2 # Anagrams
     nSp = 0 # Similarly spelled
-    nCns = 2 # Consonant match
+    nCns = 0 # Consonant match
     nHom = 0 # Homophones
     generateFineTune2Variation_parallel(poem, nSyn, nRel, nAna, nSp, nCns, nHom)
-    
+    ['As the stone-dead[#ORIGINAL_dead] barrier[#ORIGINAL_prey] upon us , they this[#ORIGINAL_are] the brain dead[#ORIGINAL_dead] in ourselves , upright[#ORIGINAL_awake] , my awake[#ORIGINAL_sleeping] barriers[#ORIGINAL_ones] , I tear[#ORIGINAL_cry] out to you , decouple[#ORIGINAL_disentangle] the grids[#ORIGINAL_nets] of bein[#ORIGINAL_being] !']
+    [(0, 'As the dead prey upon us,'), (1, 'they are the dead in ourselves,'), (2, 'awake, my sleeping ones, I cry out to you,'), (3, 'disentangle the nets of being!')]
+(0, 'As the dead prey upon us,', ['As the deathlike[#ORIGINAL_dead] dam[#ORIGINAL_prey] upon us , they scanned[#ORIGINAL_are] the nonfunctional[#ORIGINAL_dead] in ourselves , upright[#ORIGINAL_awake] , my sleeper[#ORIGINAL_sleeping] combined[#ORIGINAL_ones] , I squeeze[#ORIGINAL_cry] out to you , differentiate[#ORIGINAL_disentangle] the devices[#ORIGINAL_nets] of bein[#ORIGINAL_being] !'])
+(0, 'they are the dead in ourselves,', ['As the deathlike[#ORIGINAL_dead] dam[#ORIGINAL_prey] upon us , they scanned[#ORIGINAL_are] the nonfunctional[#ORIGINAL_dead] in ourselves , upright[#ORIGINAL_awake] , my sleeper[#ORIGINAL_sleeping] combined[#ORIGINAL_ones] , I squeeze[#ORIGINAL_cry] out to you , differentiate[#ORIGINAL_disentangle] the devices[#ORIGINAL_nets] of bein[#ORIGINAL_being] !'])
+(0, 'awake, my sleeping ones, I cry out to you,', ['As the deathlike[#ORIGINAL_dead] dam[#ORIGINAL_prey] upon us , they scanned[#ORIGINAL_are] the nonfunctional[#ORIGINAL_dead] in ourselves , upright[#ORIGINAL_awake] , my sleeper[#ORIGINAL_sleeping] combined[#ORIGINAL_ones] , I squeeze[#ORIGINAL_cry] out to you , differentiate[#ORIGINAL_disentangle] the devices[#ORIGINAL_nets] of bein[#ORIGINAL_being] !'])
+(0, 'disentangle the nets of being!', ['As the deathlike[#ORIGINAL_dead] dam[#ORIGINAL_prey] upon us , they scanned[#ORIGINAL_are] the nonfunctional[#ORIGINAL_dead] in ourselves , upright[#ORIGINAL_awake] , my sleeper[#ORIGINAL_sleeping] combined[#ORIGINAL_ones] , I squeeze[#ORIGINAL_cry] out to you , differentiate[#ORIGINAL_disentangle] the devices[#ORIGINAL_nets] of bein[#ORIGINAL_being] !'])
